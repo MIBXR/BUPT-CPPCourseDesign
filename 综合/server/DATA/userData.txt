@@ -1,0 +1,90 @@
+userNum 4
+##end##
+user1
+123
+#winRate#
+19 29
+#badge#
+0 0
+#pokemon#
+1
+squirtle 3 0 qqq 4 1 2 10 1 2 3
+2 拍打 0 0 喷水 3 0 
+##end##
+xr
+111
+#winRate#
+34 37
+#badge#
+0 0
+#pokemon#
+3
+pikachu 7 0 pikachu 72 3 8 11 3 2 7
+3 拍打 0 0 电击 7 0 电球 7 0 
+pikachu 7 0 pikachu 15 1 2 10 1 2 7
+2 拍打 0 0 电击 7 0 
+charizard 1 0 charizard 1015 9 38 63 13 2 2
+4 拍打 0 0 火焰漩涡 1 1 火花 1 1 热风 1 0 
+##end##
+xxr
+11
+#winRate#
+85 100
+#badge#
+2 3
+#pokemon#
+21
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 15 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+caterpie 4 0 caterpie 0 1 2 10 1 2 4
+2 拍打 0 0 撕咬 4 0 
+diglett 6 0 diglett 0 1 2 10 1 2 6
+2 拍打 0 0 击地 6 0 
+##end##
+user2
+123
+#winRate#
+18 21
+#badge#
+0 0
+#pokemon#
+1
+squirtle 3 2 squirtle 15 1 2 10 2 2 3
+2 拍打 0 0 喷水 3 0 
+##end##
